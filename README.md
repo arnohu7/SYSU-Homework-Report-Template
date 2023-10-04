@@ -13,7 +13,7 @@
 
 # 效果展示
 
-![img](images/presentation.png)
+![img](images/result.png)
 
 # 变量说明
 
